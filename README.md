@@ -9,6 +9,11 @@ Esto permite identificar clientes valiosos y mejorar estrategias de negocio como
 
 ---
 
+## Observaciones
+Además, al haber utilizado la plantilla por defecto para el proyecto, en mi caso personal hay veces que al ejecutar todo el archivo con la opción "ejecutar todo", da error con el controlador del notebook. Sin embargo funciona todo correctamente si se va ejecutando celda por celda. Utilizar de esta manera si ocurre el error mencionado, sino, puede funcionar perfectamente ejecutando todo a la vez.
+
+---
+
 ## 🗂️ Estructura del proyecto
 
 El proyecto está organizado en tres bloques principales:
